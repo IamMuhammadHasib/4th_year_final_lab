@@ -18,5 +18,6 @@ class keyExchange{
         int key1 = power(ya,xb,prime);
         int key2 = power(yb,xa,prime);
         System.out.println(key1+" "+key2);
+        System.out.println("Hasib");
     }
 }
